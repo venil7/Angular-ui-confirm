@@ -1,0 +1,24 @@
+{
+  "name": "angular-ui-confirm",
+  "main": "angular-ui-confirm.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/venil7/Angular-ui-confirm",
+  "authors": [
+    "Art Deineka <github@darkruby.co.uk>"
+  ],
+  "description": "angular-ui confirm box",
+  "keywords": [
+    "confirm"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.11.0"
+  }
+}
