@@ -1,0 +1,16 @@
+{
+  "name": "angular-ui-confirm",
+  "version": "0.0.1",
+  "description": "confirmation dialog directive",
+  "main": "angular-ui-confirm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Art Deineka",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.5.0",
+    "matchdep": "^0.3.0"
+  }
+}
