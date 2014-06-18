@@ -30,3 +30,5 @@ then add directive to your HTML
 ```
 
 this will show a conformation dialog, then invoke `delete()` function, if user presses `OK`
+
+![Confirmation dialog](https://raw.githubusercontent.com/venil7/Angular-ui-confirm/master/confirm.png)
